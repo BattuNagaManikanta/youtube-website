@@ -1,0 +1,27 @@
+p{
+  font-family: Roboto,Arial, Helvetica, sans-serif;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+body{
+  height: 3000px;
+  margin: 0;
+  padding-top: 80px;
+  padding-left: 96px;
+  padding-right: 24px;
+  background-color: rgb(247, 247, 247);
+
+}
+
+@media (min-width:1201px) {
+
+  body{
+    height: 3000px;
+    margin: 0;
+    padding-top: 80px;
+    padding-left: 230px;
+    padding-right: 24px;
+    background-color: rgb(247, 247, 247);
+  
+  }
+}
